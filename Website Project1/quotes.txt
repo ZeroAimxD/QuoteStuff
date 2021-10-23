@@ -1,0 +1,12 @@
+{
+    "text": "Have a nice day!"
+    "author": "Meeee"
+},
+{
+    "text": "Ily"
+    "author": "Meeee"
+},
+{
+    "text": "I hope you have an amazing day!"
+    "author": "Meeee"
+},
